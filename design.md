@@ -20,6 +20,7 @@
 * Reply to and rate posts
 * Collective chronological pool of all posts
 * Monthly (or weekly) highlights automatically generated
+* View posts containing specific tags
 
 ### Advanced Features
 * Personal streams of posts from subscribed projects or users
