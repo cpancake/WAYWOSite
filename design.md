@@ -16,7 +16,7 @@
 ## Frontend / User Interface
 ### Required Features
 * View posts related to a specific project
-* Portfolio pages aggregating posts form a specific user
+* Portfolio pages aggregating posts from a specific user
 * Reply to and rate posts
 * Collective chronological pool of all posts
 * Monthly (or weekly) highlights automatically generated
@@ -26,5 +26,7 @@
 * Personal streams of posts from subscribed projects or users
 * Collaborative projects with more than one user
 * Post streams for specific project categories (webdev / gamedev etc)
+* 1-click license code snippets
 
 ### Up For Debate
+* How can coding posts be presented in an eyecatching way?
