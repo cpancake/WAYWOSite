@@ -1,0 +1,7 @@
+{
+  "name": "waywo-site",
+  "version": "0.1.0",
+  "dependencies": {
+    "glob": "^3.2.9"
+  }
+}
